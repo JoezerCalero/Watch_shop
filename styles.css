@@ -1,0 +1,28 @@
+header{
+     background-color: #2f2c2c;
+     color: white;
+     font-family: 'garamond', serif ;
+     padding: 10px 0;
+     text-align: center;
+}
+h1{
+     color: rgb(255, 255, 255);
+}
+nav{
+     background-color: #000000;
+     color: rgb(255, 255, 255);
+     padding: 10px;
+     text-align: center;
+}
+nav a{
+     color: white;
+     margin: 0 15px;
+     text-decoration: none;
+}
+body{
+     background-color: #85888d;
+     color: rgb(255, 255, 255);
+    font-family: garamond, serif;
+    margin: 0;
+    padding: 0;
+}
